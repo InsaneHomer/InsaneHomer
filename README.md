@@ -82,13 +82,9 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-
 </div>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+### Cloud
 
 ## Projects
 - Pen test company permimeter
@@ -109,6 +105,6 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 - Large scale data migrations
 - Impliment Fieldview
 - Impliment Deltek PIM
-- Impliment Asite
+- Impliment Asite, DMS migration
 - 
 - 
