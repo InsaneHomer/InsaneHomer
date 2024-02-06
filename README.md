@@ -24,19 +24,22 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 | Open Source Tools | ProxMox & Docker for Labs, testing and Playing|
 | Open Source Tools | Portainer, Dashy, Uptime Kuma, phpBB, Twiki, Netbox|
 | Pen Testing | GVM, |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Microsoft OS | Windows 10, 11|
 | Microsoft Server | Windows 2012 R2, 2016, 2019 Standard|
-| Microsoft Software | Hyper V Clustering, Exchange 2016, MS Office 365, Windows Admin Center, MDT, WSUS, Intune, Auto Pilot|
+| Microsoft Software | Hyper V Clustering, Exchange 2016, MS Office 365, Windows Admin Center, MDT, WSUS, Intune, Auto Pilot, WinRM|
 | Networking | Meraki LAN, WAN, switching, VLANs, Wifi and Cameras|
 | SAN Storage| HP Nimble, Netapp|
 | Perimeter tools | Mimecast, Fortigate, |
 | Mobile Device Management | MobileIron, InTune with Android and Apple devices|
 | Construction Specific Products | COINS, Deltek PIM, Fieldview, |
 
+## Tools & Skills
 
-
-## Tools
+### Languages
+- Powershell
+- Kix32
+- MS SQL
+- Python
 
 ### Software
 
@@ -49,11 +52,12 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snow_Inventory-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 
 </div>
 
@@ -63,5 +67,22 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Pen test company permimeter
+- Pen test company WAN
+- Pen test company LAN
+- Pen test company Wifi
+- SOC Automation Project -
+- Migration SAN from Netapp to Nimble
+- Virtualise servers to Hyper-V cluster
+- Impliment Veeam
+- Document DR procedures
+- Cyber Essentials and Cyber Essentials Plus
+- Network documentation - Netbox
+- On prem to O365 email migration
+- COINS cloud migration
+- Large scale data migrations
+- Impliment Fieldview
+- Impliment Deltek PIM
+- Impliment Asite
+- 
+- 
