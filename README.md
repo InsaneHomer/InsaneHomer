@@ -11,8 +11,9 @@ I've found myself increasing concerned and fascinated with Cybersecurity, defend
 
 I'm currently subscribed to Hack the Box as a VIP to upskill my knowledge and toolset.
 
-The idea position would be on a counter offisive team activity persuing bad actors.
+The idea position would be on a counter offensive team activity persuing bad actors.
 
+Rather than just be content with blocking bad actors, I find myself constantly attempting to look at ways to further disrupt their attacks.
 Currently that is limited to reporting mostly phishing attacks to authorities and sec company to disrupt and prevent others from falling victim to scams.
 
 ## Skills
