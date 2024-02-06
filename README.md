@@ -1,11 +1,13 @@
 # Hello, I'm Darren
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/darren-henderson-8200072/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Brief Introduction
+### This page is WIP
+
+### Brief Intro
 
 I'm a seasoned IT administrator, currently head of IT for a well know UK construction outfit. I've 14 years construction industry experience and closing in on 25 years it the IT industry. My fascination with IT started and a very early age and my first introduction was via the ZX Spectrum. My job is my hobby. I'm a tinkerer, problem solver and a project manager. I manage a very small but efficient team supporting hundreds of users across multiple sites. Security, connectivity and resource availability are crucial to the industry. 
 
-## Objective
+## Objectives
 
 I've found myself increasing concerned and fascinated with Cybersecurity, defending from the daily threats in my current role, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -31,7 +33,7 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 | SAN Storage| HP Nimble, Netapp|
 | Perimeter tools | Mimecast, Fortigate, |
 | Mobile Device Management | MobileIron, InTune with Android and Apple devices|
-| Construction Specific Products | COINS, Deltek PIM, Fieldview, |
+| Construction Specific Products | COINS, Deltek PIM, Fieldview, ASite|
 
 ### Skill sets
 - Project Management
@@ -39,14 +41,21 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 - Supplier Management
 - Security Management
 - Compliance Management
+- Hyper-V Cluster and SAN
 - Data Protection Management
 - Backup and disaster-recovery Managment
+- Access Control
+- Comms Room design
 - Software and hardware procurement
-- Asset Management
+- Asset Management & Recycling
 - Budgeting
 - SSL Certificate management
 - Microsoft Licensing
 - Documentation
+- Office move
+- SIP and Telephony management
+- Printer Managment
+
 
 ## Tools & Skills
 
@@ -86,6 +95,7 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 - Pen test company WAN
 - Pen test company LAN
 - Pen test company Wifi
+- Office Move
 - SOC Automation Project -
 - Migration SAN from Netapp to Nimble
 - Virtualise servers to Hyper-V cluster
@@ -93,6 +103,7 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 - Document DR procedures
 - Cyber Essentials and Cyber Essentials Plus certification
 - Network documentation - Netbox
+- ISDN30 to SIP Project
 - On prem to O365 email migration
 - COINS cloud migration
 - Large scale data migrations
