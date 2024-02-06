@@ -9,8 +9,13 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 I've found myself increasing concerned and fascinated with Cybersecurity, defending from the daily threats in my current role, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+I'm currently subscribed to Hack the Box as a VIP to upskill my knowledge and toolset.
+
+The idea position would be on a counter offisive team activity persuing bad actors.
+
+Currently that is limited to reporting mostly phishing attacks to authorities and sec company to disrupt and prevent others from falling victim to scams.
+
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -37,7 +42,7 @@ I've found myself increasing concerned and fascinated with Cybersecurity, defend
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Meraki&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Meraki-1679A7?&style=for-the-badge&logo=Meraki&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -48,8 +53,7 @@ I've found myself increasing concerned and fascinated with Cybersecurity, defend
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+
 </div>
 
 ## Certifications
