@@ -9,7 +9,7 @@ I'm a seasoned IT administrator, currently head of IT for a well know UK constru
 
 I've found myself increasing concerned and fascinated with Cybersecurity, defending from the daily threats in my current role, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-I'm currently subscribed to Hack the Box as a VIP to upskill my knowledge and toolset.
+I'm currently subscribed to Hack the Box as a VIP to upskill my knowledge and toolsets.
 
 The idea position would be on a counter offensive team activity persuing bad actors.
 
@@ -23,7 +23,7 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 | Linux Distros | Debian, Parrot and Kali|
 | Open Source Tools | ProxMox & Docker for Labs, testing and Playing|
 | Open Source Tools | Portainer, Dashy, Uptime Kuma, phpBB, Twiki, Netbox|
-| Pen Testing | GVM, |
+| Pen Testing | GVM (OpenVAS), Burpsuite |
 | Microsoft OS | Windows 10, 11|
 | Microsoft Server | Windows 2012 R2, 2016, 2019 Standard|
 | Microsoft Software | Hyper V Clustering, Exchange 2016, MS Office 365, Windows Admin Center, MDT, WSUS, Intune, Auto Pilot, WinRM|
@@ -32,6 +32,21 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 | Perimeter tools | Mimecast, Fortigate, |
 | Mobile Device Management | MobileIron, InTune with Android and Apple devices|
 | Construction Specific Products | COINS, Deltek PIM, Fieldview, |
+
+### Skill sets
+- Project Management
+- Contract Management
+- Supplier Management
+- Security Management
+- Compliance Management
+- Data Protection Management
+- Backup and disaster-recovery Managment
+- Software and hardware procurement
+- Asset Management
+- Budgeting
+- SSL Certificate management
+- Microsoft Licensing
+- Documentation
 
 ## Tools & Skills
 
@@ -76,7 +91,7 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 - Virtualise servers to Hyper-V cluster
 - Impliment Veeam
 - Document DR procedures
-- Cyber Essentials and Cyber Essentials Plus
+- Cyber Essentials and Cyber Essentials Plus certification
 - Network documentation - Netbox
 - On prem to O365 email migration
 - COINS cloud migration
