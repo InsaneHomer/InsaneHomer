@@ -22,12 +22,12 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Linux Distros | Debian, Parrot and Kali|
-| Open Source Tools | ProxMox & Docker for Labs, testing and Playing|
+| Linux Distros | <img src="https://img.shields.io/badge/-Debian-168C9C?&style=for-the-badge&logo=Debian&logoColor=white">   <img src="https://img.shields.io/badge/-Kali-292c7a?&style=for-the-badge&logo=Kali&logoColor=white">   <img src="https://img.shields.io/badge/-Parrot-00a4ef?&style=for-the-badge&logo=Parrot&logoColor=white">
+| Open Source Tools | <img src="https://img.shields.io/badge/-Proxmox-F96854?&style=for-the-badge&logo=Proxmox&logoColor=white">   <img src="https://img.shields.io/badge/-Docker-000000?&style=for-the-badge&logo=Docker&logoColor=ffffff">|
 | Open Source Tools | Portainer, Dashy, Uptime Kuma, phpBB, Twiki, Netbox|
 | Pen Testing | GVM (OpenVAS), Burpsuite |
-| Microsoft OS | Windows 10, 11|
-| Microsoft Server | Windows 2012 R2, 2016, 2019 Standard|
+| Microsoft OS | <img src="https://img.shields.io/badge/-Windows_11-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white">   <img src="https://img.shields.io/badge/-Windows_10-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white">|
+| Microsoft Server | Windows 2012 R2, 2016   <img src="https://img.shields.io/badge/-Windows_2019_Server-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white">|
 | Microsoft Software | Hyper V Clustering, Exchange 2016, MS Office 365, Windows Admin Center, MDT, WSUS, Intune, Auto Pilot, WinRM|
 | Networking | Meraki LAN, WAN, switching, VLANs, Wifi and Cameras|
 | SAN Storage| HP Nimble, Netapp|
@@ -60,28 +60,31 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 ## Tools & Skills
 
 ### Languages
-- Powershell
-- Kix32
-- MS SQL
-- Python
+- <img src="https://img.shields.io/badge/-Powershell-ffffff?&style=for-the-badge&color=ffffff&logo=Powershell&logoColor=000000">  <img src="https://img.shields.io/badge/-KIX32-gray?&style=for-the-badge">   <img src="https://img.shields.io/badge/-Microsoft_SQL_Server-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white">   <img src="https://img.shields.io/badge/-Python-2E8B57?&style=for-the-badge&color=2E8B57&logo=Python&logoColor=FFFF00">
+
 
 ### Software
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Meraki-1679A7?&style=for-the-badge&logo=Meraki&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Meraki-00A4EF?&style=for-the-badge&logo=Meraki&logoColor=white&color=4CBB17">
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snow_Inventory-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Snow_Inventory-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white&data-url=data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%20www.w3.org%202000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M256%20456a64%2064%200%201%201%20128-128V32a64%2064%200%201%201-128%20128V456zm0-352c-43.456%200-80-36.544-80-80V176a80%2080%200%201%20160%2079.776L256%256l60.224-76.224a80%2080%200%201%2015.776%2060.224V352zm0-208c-35.208%200-64-28.792-64-64s28.792-64%2064-64s64%2028.792%2064%2064s-28.792%2064-64%2064z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E" />
+
+
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-43A047?&style=for-the-badge&logo=Wazuh&logoColor=white&data-url=data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%20www.w3.org%202000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M448%20224a48%2048%200%201%200-96%200v192a48%2048%200%201%200%2096%200V224zm-192%2064a48%2048%200%201%200-96%200v192a48%2048%200%201%200%2096%200V288zm-192%2064a48%2048%200%201%200-96%200v192a48%2048%0%201%200%2096%200V448zm0-320a16%2016%200%201%2016-16h336a16%2016%200%201%2016%2016v336a16%2016%200%201%20-16%2016H16a16%2" />
+
+
 </div>
 
 ### Cloud
