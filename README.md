@@ -32,9 +32,9 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 | Networking | Meraki LAN, WAN, switching, VLANs, Wifi and Cameras|
 | SAN Storage| <img src="https://img.shields.io/badge/-HP_Nimble-0078D7?&style=for-the-badge&logo=HP&logoColor=white">   <img src="https://img.shields.io/badge/-NetApp-2962FF?&style=for-the-badge&logo=NetApp&logoColor=ffffff">|
 | Perimeter tools | <img src="https://img.shields.io/badge/-Mimecast-0078D7?&style=for-the-badge&color=white">   <img src="https://img.shields.io/badge/-FortiGate-F67CA9?&style=for-the-badge&logo=Fortinet&logoColor=ffffff"> |
-| Mobile Device Management | MobileIron, InTune with Android and Apple devices|
-| Construction Specific Products | COINS, Deltek PIM, Fieldview, ASite|
-| <img src="https://img.shields.io/badge/-Finnair-0078D7?&style=for-the-badge&color=white"> |
+| Mobile Device Management | <img src="https://img.shields.io/badge/-Ivanti-00A4EF?&style=for-the-badge&logo=Ivanti&logoColor=ffffff"> InTune with Android and Apple devices|
+| Construction Specific Products | COINS, Deltek PIM   <img src="https://img.shields.io/badge/-Fieldview-linear%2CFFDD00,9ACD32">   <img src="https://img.shields.io/badge/-Asite-2e8ba2?&style=for-the-badge&logo=Asite&logoColor=ffffff"> |
+
 
 ### Skill sets
 - Project Management
