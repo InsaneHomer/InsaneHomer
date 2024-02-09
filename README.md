@@ -24,16 +24,17 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 |-----------------------------------------------|----------------------------|
 | Linux Distros | <img src="https://img.shields.io/badge/-Debian-168C9C?&style=for-the-badge&logo=Debian&logoColor=white">   <img src="https://img.shields.io/badge/-Kali-292c7a?&style=for-the-badge&logo=Kali&logoColor=white">   <img src="https://img.shields.io/badge/-Parrot-00a4ef?&style=for-the-badge&logo=Parrot&logoColor=white">
 | Open Source Tools | <img src="https://img.shields.io/badge/-Proxmox-F96854?&style=for-the-badge&logo=Proxmox&logoColor=white">   <img src="https://img.shields.io/badge/-Docker-000000?&style=for-the-badge&logo=Docker&logoColor=ffffff">|
-| Open Source Tools | Portainer, Dashy, Uptime Kuma, phpBB, Twiki, Netbox|
+| Open Source Tools | <img src="https://img.shields.io/badge/-Portainer-2E8B57?&style=for-the-badge&logo=Portainer&logoColor=ffffff">   Dashy, Uptime Kuma, phpBB, Twiki, Netbox|
 | Pen Testing | GVM (OpenVAS), Burpsuite |
 | Microsoft OS | <img src="https://img.shields.io/badge/-Windows_11-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white">   <img src="https://img.shields.io/badge/-Windows_10-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white">|
 | Microsoft Server | Windows 2012 R2, 2016   <img src="https://img.shields.io/badge/-Windows_2019_Server-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white">|
 | Microsoft Software | Hyper V Clustering, Exchange 2016, MS Office 365, Windows Admin Center, MDT, WSUS, Intune, Auto Pilot, WinRM|
 | Networking | Meraki LAN, WAN, switching, VLANs, Wifi and Cameras|
-| SAN Storage| HP Nimble, Netapp|
-| Perimeter tools | Mimecast, Fortigate, |
+| SAN Storage| <img src="https://img.shields.io/badge/-HP_Nimble-0078D7?&style=for-the-badge&logo=HP&logoColor=white">   <img src="https://img.shields.io/badge/-NetApp-2962FF?&style=for-the-badge&logo=NetApp&logoColor=ffffff">|
+| Perimeter tools | <img src="https://img.shields.io/badge/-Mimecast-0078D7?&style=for-the-badge&color=white">   <img src="https://img.shields.io/badge/-FortiGate-F67CA9?&style=for-the-badge&logo=Fortinet&logoColor=ffffff"> |
 | Mobile Device Management | MobileIron, InTune with Android and Apple devices|
 | Construction Specific Products | COINS, Deltek PIM, Fieldview, ASite|
+| <img src="https://img.shields.io/badge/-Finnair-0078D7?&style=for-the-badge&color=white"> |
 
 ### Skill sets
 - Project Management
