@@ -5,18 +5,19 @@
 
 ### Brief Intro
 
-I'm a seasoned IT administrator, currently head of IT for a well know UK construction outfit. I've 14 years construction industry experience and closing in on 25 years it the IT industry. My fascination with IT started and a very early age and my first introduction was via the ZX Spectrum. My job is my hobby. I'm a tinkerer, problem solver and a project manager. I manage a very small but efficient team supporting hundreds of users across multiple sites. Security, connectivity and resource availability are crucial to the industry. 
+I'm a seasoned IT administrator, currently head of IT for a well know UK construction outfit. I've 14 years construction industry experience and closing in on 25 years in the IT industry. My fascination with IT started and a very early age and my first introduction was via the ZX Spectrum. My job is my hobby. I'm a tinkerer, problem solver and a project manager. I manage a very small but efficient team supporting hundreds of users across multiple sites. Security, connectivity and resource availability are crucial to the industry. 
 
 ## Objectives
 
-I've found myself increasing concerned and fascinated with Cybersecurity, defending from the daily threats in my current role, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I've found myself increasing concerned and fascinated with Cybersecurity, defending from the daily threats in my current role. Rather than just be content with blocking bad actors, I find myself constantly attempting to look at ways to further disrupt their attacks.
+Currently that is limited to reporting mostly phishing attacks to authorities and sec company to disrupt and prevent others from falling victim to scams.
+
+I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
 
 I'm currently subscribed to Hack the Box as a VIP to upskill my knowledge and toolsets.
 
-The idea position would be on a counter offensive team activity persuing bad actors.
+The ideal position would be on a counter offensive team activity persuing bad actors.
 
-Rather than just be content with blocking bad actors, I find myself constantly attempting to look at ways to further disrupt their attacks.
-Currently that is limited to reporting mostly phishing attacks to authorities and sec company to disrupt and prevent others from falling victim to scams.
 
 ## Skills
 
@@ -24,7 +25,7 @@ Currently that is limited to reporting mostly phishing attacks to authorities an
 |-----------------------------------------------|----------------------------|
 | Linux Distros | <img src="https://img.shields.io/badge/-Debian-168C9C?&style=for-the-badge&logo=Debian&logoColor=white">   <img src="https://img.shields.io/badge/-Kali-292c7a?&style=for-the-badge&logo=Kali&logoColor=white">   <img src="https://img.shields.io/badge/-Parrot-00a4ef?&style=for-the-badge&logo=Parrot&logoColor=white">
 | Open Source Tools | <img src="https://img.shields.io/badge/-Proxmox-F96854?&style=for-the-badge&logo=Proxmox&logoColor=white">   <img src="https://img.shields.io/badge/-Docker-000000?&style=for-the-badge&logo=Docker&logoColor=ffffff">|
-| Open Source Tools | <img src="https://img.shields.io/badge/-Portainer-2E8B57?&style=for-the-badge&logo=Portainer&logoColor=ffffff">   Dashy, Uptime Kuma, phpBB, Twiki, Netbox|
+| Open Source Tools | <img src="https://img.shields.io/badge/-Portainer-2E8B57?&style=for-the-badge&logo=Portainer&logoColor=ffffff">   <img src="https://img.shields.io/badge/-Dashy-2E8B57?&style=for-the-badge&logo=Dashy&logoColor=ffffff">     <img src="https://img.shields.io/badge/-Uptime_Kumar-2E8B57?&style=for-the-badge&logo=Uptime_Kumar&logoColor=ffffff">  <img src="https://img.shields.io/badge/-phpBB-2E8B57?&style=for-the-badge&logo=Dashy&logoColor=ffffff">     <img src="https://img.shields.io/badge/-Twiki-2E8B57?&style=for-the-badge&logo=Uptime_Kumar&logoColor=ffffff">   <img src="https://img.shields.io/badge/-Netbox-2E8B57?&style=for-the-badge&logo=Uptime_Kumar&logoColor=ffffff"> |
 | Pen Testing | GVM (OpenVAS), Burpsuite |
 | Microsoft OS | <img src="https://img.shields.io/badge/-Windows_11-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white">   <img src="https://img.shields.io/badge/-Windows_10-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white">|
 | Microsoft Server | Windows 2012 R2, 2016   <img src="https://img.shields.io/badge/-Windows_2019_Server-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white">|
