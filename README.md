@@ -30,7 +30,7 @@ The ideal position would be on a counter offensive team activity persuing bad ac
 | Microsoft OS | <img src="https://img.shields.io/badge/-Windows_11-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white">   <img src="https://img.shields.io/badge/-Windows_10-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white">|
 | Microsoft Server | <img src="https://img.shields.io/badge/-Windows_2012_R2_Server-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white"> <img src="https://img.shields.io/badge/-Windows_2016_Server-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white">   <img src="https://img.shields.io/badge/-Windows_2019_Server-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white">|
 | Microsoft Software | Hyper V Clustering, Exchange 2016, MS Office 365, Windows Admin Center, MDT, WSUS, Intune, Auto Pilot, WinRM|
-| Networking | Meraki LAN, WAN, switching, VLANs, Wifi and Cameras|
+| Networking | <img src="https://img.shields.io/badge/-Meraki-00A4EF?&style=for-the-badge&logo=Meraki&logoColor=white&color=4CBB17"> - LAN, WAN, switching, VLANs, Wifi and Cameras|
 | SAN Storage| <img src="https://img.shields.io/badge/-HP_Nimble-0078D7?&style=for-the-badge&logo=HP&logoColor=white">   <img src="https://img.shields.io/badge/-NetApp-2962FF?&style=for-the-badge&logo=NetApp&logoColor=ffffff">|
 | Perimeter tools | <img src="https://img.shields.io/badge/-Mimecast-0078D7?&style=for-the-badge&color=white">   <img src="https://img.shields.io/badge/-FortiGate-F67CA9?&style=for-the-badge&logo=Fortinet&logoColor=ffffff"> |
 | Mobile Device Management | <img src="https://img.shields.io/badge/-Ivanti-00A4EF?&style=for-the-badge&logo=Ivanti&logoColor=ffffff"> InTune with Android and Apple devices|
@@ -84,9 +84,6 @@ The ideal position would be on a counter offensive team activity persuing bad ac
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-43A047?&style=for-the-badge&logo=Wazuh&logoColor=white&data-url=data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%20www.w3.org%202000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M448%20224a48%2048%200%201%200-96%200v192a48%2048%200%201%200%2096%200V224zm-192%2064a48%2048%200%201%200-96%200v192a48%2048%200%201%200%2096%200V288zm-192%2064a48%2048%200%201%200-96%200v192a48%2048%0%201%200%2096%200V448zm0-320a16%2016%200%201%2016-16h336a16%2016%200%201%2016%2016v336a16%2016%200%201%20-16%2016H16a16%2" />
-
-
 </div>
 
 ### Cloud
