@@ -1,5 +1,7 @@
 # Hello, I'm Darren
-<a href="https://www.linkedin.com/in/darren-henderson-8200072/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/darren-henderson-8200072/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://techiegeekuk.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-0072b1?&style=for-the-badge&logo=blogger&logoColor=white&color=orange" alt="Insane Homer - Blog"/></a>
+
 
 ### This page is WIP
 
