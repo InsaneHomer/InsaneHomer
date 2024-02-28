@@ -35,8 +35,8 @@ The ideal position would be on a counter offensive team activity persuing bad ac
 | Networking | <img src="https://img.shields.io/badge/-Meraki-00A4EF?&style=for-the-badge&logo=Meraki&logoColor=white&color=4CBB17"> - LAN, WAN, switching, VLANs, Wifi and Cameras|
 | SAN Storage| <img src="https://img.shields.io/badge/-HP_Nimble-0078D7?&style=for-the-badge&logo=HP&logoColor=white">   <img src="https://img.shields.io/badge/-NetApp-2962FF?&style=for-the-badge&logo=NetApp&logoColor=ffffff">|
 | Perimeter tools | <img src="https://img.shields.io/badge/-Mimecast-0078D7?&style=for-the-badge&color=white">   <img src="https://img.shields.io/badge/-FortiGate-F67CA9?&style=for-the-badge&logo=Fortinet&logoColor=red"> |
-| Mobile Device Management | <img src="https://img.shields.io/badge/-Ivanti-00A4EF?&style=for-the-badge&logo=Ivanti&logoColor=ffffff"> InTune with Android and Apple devices|
-| Construction Specific Products | COINS, Deltek PIM   <img src="https://img.shields.io/badge/-Fieldview-linear%2CFFDD00,9ACD32">   <img src="https://img.shields.io/badge/-Asite-2e8ba2?&style=for-the-badge&logo=Asite&logoColor=ffffff"> |
+| Mobile Device Management | <img src="https://img.shields.io/badge/-Ivanti-00A4EF?&style=for-the-badge&logo=Ivanti&logoColor=ffffff"> <img src="https://img.shields.io/badge/-InTune-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Android-00A4EF?&style=for-the-badge&logo=Android&logoColor=ffffff"> <img src="https://img.shields.io/badge/-iPhone-00A4EF?&style=for-the-badge&logo=Apple&logoColor=ffffff">|
+| Construction Specific Products |    <img src="https://img.shields.io/badge/-COINS-2e8ba2?&style=for-the-badge&logo=COINS&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Deltek_PIM-2e8ba2?&style=for-the-badge&logo=Deltek&logoColor=ffffff">   <img src="https://img.shields.io/badge/-Fieldview-2e8ba2?&style=for-the-badge&logo=Fieldview&logoColor=ffffff">   <img src="https://img.shields.io/badge/-Asite-2e8ba2?&style=for-the-badge&logo=Asite&logoColor=ffffff"> |
 
 
 ### Skill sets
@@ -101,7 +101,7 @@ The ideal position would be on a counter offensive team activity persuing bad ac
 - Virtualise servers to Hyper-V cluster
 - Impliment Veeam
 - Document DR procedures
-- Cyber Essentials and Cyber Essentials Plus certification
+- Cyber Essentials Plus certification
 - Network documentation - Netbox
 - ISDN30 to SIP Project
 - On prem to O365 email migration
