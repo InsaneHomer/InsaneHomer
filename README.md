@@ -21,7 +21,7 @@ I'm currently subscribed to Hack the Box as a VIP to upskill my knowledge and to
 The ideal position would be on a counter offensive team activity persuing bad actors.
 
 
-## Skills
+## Systems
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
