@@ -25,10 +25,10 @@ The ideal position would be on a counter offensive team activity persuing bad ac
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Linux Distros | <img src="https://img.shields.io/badge/-Debian-168C9C?&style=for-the-badge&logo=Debian&logoColor=white">   <img src="https://img.shields.io/badge/-Kali-292c7a?&style=for-the-badge&logo=Kali&logoColor=white">   <img src="https://img.shields.io/badge/-Parrot-00a4ef?&style=for-the-badge&logo=Parrot&logoColor=white">
+| Linux Distros | <img src="https://img.shields.io/badge/-Debian-168C9C?&style=for-the-badge&logo=Debian&logoColor=white">   <img src="https://img.shields.io/badge/-Kali-292c7a?&style=for-the-badge&logo=Kali&logoColor=white&color=800080">   <img src="https://img.shields.io/badge/-Parrot-00a4ef?&style=for-the-badge&logo=ParrotSec&logoColor=white&color=9de60a">
 | Open Source Tools | <img src="https://img.shields.io/badge/-Proxmox-F96854?&style=for-the-badge&logo=Proxmox&logoColor=white&color=orange">   <img src="https://img.shields.io/badge/-Docker-000000?&style=for-the-badge&logo=Docker&logoColor=ffffff">|
-| Open Source Tools | <img src="https://img.shields.io/badge/-Portainer-2E8B57?&style=for-the-badge&logo=Portainer&logoColor=ffffff">   <img src="https://img.shields.io/badge/-Dashy-2E8B57?&style=for-the-badge&logo=Dashy&logoColor=ffffff">     <img src="https://img.shields.io/badge/-Uptime_Kumar-2E8B57?&style=for-the-badge&logo=Uptime_Kumar&logoColor=ffffff">  <img src="https://img.shields.io/badge/-phpBB-2E8B57?&style=for-the-badge&logo=Dashy&logoColor=ffffff">     <img src="https://img.shields.io/badge/-Twiki-2E8B57?&style=for-the-badge&logo=Uptime_Kumar&logoColor=ffffff">   <img src="https://img.shields.io/badge/-Netbox-2E8B57?&style=for-the-badge&logo=Uptime_Kumar&logoColor=ffffff"> |
-| Pen Testing | <img src="https://img.shields.io/badge/-Burpsuite-2E8B57?&style=for-the-badge&logo=BurpSuite&logoColor=white&color=ff6b39">   <img src="https://img.shields.io/badge/-GVM_(OpenVAS)-2E8B57?&style=for-the-badge&logo=GVM&logoColor=ffffff"> |
+| Open Source Tools | <img src="https://img.shields.io/badge/-Portainer-2E8B57?&style=for-the-badge&logo=Portainer&logoColor=white&color=0ba5ec">   <img src="https://img.shields.io/badge/-Dashy-2E8B57?&style=for-the-badge&logo=Dashy&logoColor=ffffff">     <img src="https://img.shields.io/badge/-Uptime_Kumar-2E8B57?&style=for-the-badge&logo=Uptime_Kumar&logoColor=ffffff">  <img src="https://img.shields.io/badge/-phpBB-2E8B57?&style=for-the-badge&logo=Dashy&logoColor=ffffff">     <img src="https://img.shields.io/badge/-Twiki-2E8B57?&style=for-the-badge&logo=Uptime_Kumar&logoColor=ffffff">   <img src="https://img.shields.io/badge/-Netbox-2E8B57?&style=for-the-badge&logo=Uptime_Kumar&logoColor=ffffff"> |
+| Pen Testing | <img src="https://img.shields.io/badge/-Burpsuite-2E8B57?&style=for-the-badge&logo=BurpSuite&logoColor=white&color=ff6b39">   <img src="https://img.shields.io/badge/-GVM_(OpenVAS)-2E8B57?&style=for-the-badge&logo=GVM&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white&color=0052ff" />|
 | Microsoft OS | <img src="https://img.shields.io/badge/-Windows_11-0078D7?&style=for-the-badge&logo=Windows11&logoColor=white">   <img src="https://img.shields.io/badge/-Windows_10-0078D7?&style=for-the-badge&logo=Windows10&logoColor=white">|
 | Microsoft Server | <img src="https://img.shields.io/badge/-Windows_2012_R2_Server-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=White&color=0065ad"> <img src="https://img.shields.io/badge/-Windows_2016_Server-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=White&color=4568c4">   <img src="https://img.shields.io/badge/-Windows_2019_Server-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=White&color=2b569a">|
 | Microsoft Software | Hyper V Clustering, Exchange 2016, MS Office 365, Windows Admin Center, MDT, WSUS, Intune, Auto Pilot, WinRM|
@@ -65,15 +65,6 @@ The ideal position would be on a counter offensive team activity persuing bad ac
 
 ### Languages
 - <img src="https://img.shields.io/badge/-Powershell-ffffff?&style=for-the-badge&color=ffffff&logo=Powershell&logoColor=000000">  <img src="https://img.shields.io/badge/-KIX32-gray?&style=for-the-badge">   <img src="https://img.shields.io/badge/-Microsoft_SQL_Server-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white">   <img src="https://img.shields.io/badge/-Python-2E8B57?&style=for-the-badge&color=2E8B57&logo=Python&logoColor=FFFF00">
-
-
-### Software
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Meraki-00A4EF?&style=for-the-badge&logo=Meraki&logoColor=white&color=4CBB17">
-</div>
 
 ### Endpoint
 <div>
