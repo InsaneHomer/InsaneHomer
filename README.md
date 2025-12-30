@@ -7,7 +7,7 @@
 
 ### Brief Intro
 
-I'm a seasoned IT administrator, currently head of IT for a well know UK construction outfit. I've 14 years construction industry experience and closing in on 25 years in the IT industry. My fascination with IT started and a very early age and my first introduction was via the ZX Spectrum. My job is my hobby. I'm a tinkerer, problem solver and a project manager. I manage a very small but efficient team supporting hundreds of users across multiple sites. Security, connectivity and resource availability are crucial to the industry. 
+I'm a seasoned IT Manager & administrator, currently head of IT for a well know UK construction outfit. I've 14 years construction industry experience and closing in on 25 years in the IT industry. My fascination with IT started and a very early age and my first introduction was via the ZX Spectrum. My job is my hobby. I'm a tinkerer, problem solver and a project manager. I manage a very small but efficient team supporting hundreds of users across multiple sites. Security, connectivity and resource availability are crucial to the industry. 
 
 ## Objectives
 
